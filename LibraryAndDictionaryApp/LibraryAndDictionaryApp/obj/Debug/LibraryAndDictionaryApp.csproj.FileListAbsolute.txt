@@ -1,0 +1,17 @@
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\bin\Debug\LibraryAndDictionaryApp.exe.config
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\bin\Debug\LibraryAndDictionaryApp.exe
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\bin\Debug\LibraryAndDictionaryApp.pdb
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.csproj.AssemblyReference.cache
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.Form1.resources
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.Properties.Resources.resources
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.csproj.GenerateResource.cache
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.exe
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.pdb
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.AnaSayfa.resources
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\bin\Debug\MySql.Data.dll
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\bin\Debug\Google.Protobuf.dll
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\bin\Debug\MySql.Data.xml
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.csproj.CopyComplete
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.register.resources
+C:\Users\umutc\source\repos\LibraryAndDictionaryApp\LibraryAndDictionaryApp\obj\Debug\LibraryAndDictionaryApp.library.resources
